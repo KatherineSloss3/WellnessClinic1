@@ -1,0 +1,112 @@
+@charset "utf-8";
+.nav {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #B800FF;
+    font-size: large;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    background-color: #C8C8C8;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+table {
+    width: 100%;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-right: 0px;
+}
+
+td {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 0%;
+}
+
+img {
+    max-width: 25%;
+}
+
+.caption {
+    max-width: 25%;
+    text-align: center;
+    font-size: larger;
+}
+
+li2 {}
+
+li{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #67009A;
+    font-size: medium;
+}
+
+description {
+    color: #670085;
+    font-size: small;
+}
+
+p {
+    color: black;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: #D5D5D5;
+}
+
+h4 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #680091;
+    text-decoration: underline;
+    font-weight: bold;
+    max-width: 50px;
+}
+
+a hover {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+h1 {
+    color: #B800FF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+}
+
+main {
+    color: black;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+}
+
+footer {
+    background-color: black;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col-lg-4 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #5A0078;
+    font-size: 20px;
+}
+
+@media (max-width: 1174px){
+}
+
+@media (max-width: 650px){
+}
